@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul, ol, li{
+    list-style: none;
+}
+body{
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+   
+}
+img{
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+   
+    
+}
+.tudo{
+    display: flex;
+    
+}
+
+main{
+    background-color: rgb(129, 0, 0);
+    width: 100vh;
+    justify-content: center;
+    display: flex;
+}
+.logo{
+    width: 600px;
+}
+.subucha:hover{
+
+transition: 1s;
+}
+.subucha:hover{
+  width: 125px;  
+  height: 175px; 
+}
+
+.yuji{
+    transition: 1s;
+}
+
+.yuji:hover{
+     width: 125px;  
+     height: 175px;
+    
+}
+.gojo{
+    transition: 1s;
+}
+.gojo:hover{
+      width: 125px;  
+  height: 175px;
+}
+.megumi{
+    transition: 1s;
+}
+.megumi:hover{
+      width: 125px;  
+  height: 175px;
+}
+.kenjaku{
+    transition: 1s;
+}
+.kenjaku:hover{
+      width: 125px;  
+  height: 175px;
+}
+.toji{
+    transition: 1s;
+}
+.toji:hover{
+      width: 125px;  
+  height: 175px;
+}
+.mahito{
+transition: 1s;
+}
+.mahito:hover{
+      width: 125px;  
+  height: 175px;
+}
+.choso{
+    transition: 1s;
+}
+.choso:hover{
+      width: 125px;  
+  height: 175px;
+}
+.kashimo{
+    transition: 1s;
+}
+.kashimo:hover{
+      width: 125px;  
+      height: 175px;
+}
+.card{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 45px;
+    background-color: rgb(81, 83, 83);
+    padding: 20px;
+     border-radius: 5px;
+     border: 10px solid #b46f6f;
+     transition: 2s;
+    
+    
+    
+    
+    
+    
+}
+span{
+    color: aliceblue;
+    transition: 1s;
+}
+.card:hover{
+    height: 290px;
+    color: aliceblue;
+}
